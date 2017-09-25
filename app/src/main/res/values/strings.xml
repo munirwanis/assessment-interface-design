@@ -7,7 +7,7 @@
     <string name="phoneEditText">Phone</string>
     <string name="emailEditText">Email</string>
     <string name="nameTextView">Name</string>
-    <string name="nameDescriptionEditText">The user name</string>
+    <string name="nameEditText">Name</string>
     <string name="streetTextView">Street</string>
     <string name="cityTextView">City</string>
     <string name="stateTextView">State</string>
@@ -17,4 +17,7 @@
     <string name="stateEditTextHint">RJ</string>
     <string name="cityEditTextHint">Rio de Janeiro</string>
     <string name="streetEditTextHint">R. Dr. Satamini, 128</string>
+    <string name="emailTextView">Email</string>
+    <string name="createButtonContentDescription">Finish registration</string>
+    <string name="createButton">Create</string>
 </resources>
