@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AssessmentInterfaceDesign</string>
+    <string name="nameEditText">Name</string>
+    <string name="cityEditText">City</string>
+    <string name="streetEditText">Street</string>
+    <string name="stateEditText">State</string>
+    <string name="phoneEditText">Phone</string>
+    <string name="emailEditText">Email</string>
+    <string name="nameTextView">Name</string>
+    <string name="nameDescriptionEditText">The user name</string>
+    <string name="streetTextView">Street</string>
+</resources>
