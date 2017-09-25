@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">AssessmentInterfaceDesign</string>
-    <string name="nameEditText">Name</string>
+    <string name="app_name">Assessment</string>
+    <string name="nameEditTextHint">John Doe</string>
     <string name="cityEditText">City</string>
     <string name="streetEditText">Street</string>
     <string name="stateEditText">State</string>
@@ -9,4 +9,12 @@
     <string name="nameTextView">Name</string>
     <string name="nameDescriptionEditText">The user name</string>
     <string name="streetTextView">Street</string>
+    <string name="cityTextView">City</string>
+    <string name="stateTextView">State</string>
+    <string name="phoneTextView">Phone</string>
+    <string name="emailEditTextHint">john@doe.com</string>
+    <string name="phoneEditTextHint">+5521986355328</string>
+    <string name="stateEditTextHint">RJ</string>
+    <string name="cityEditTextHint">Rio de Janeiro</string>
+    <string name="streetEditTextHint">R. Dr. Satamini, 128</string>
 </resources>
